@@ -5,6 +5,10 @@ body{
     margin-left: 10%;
     margin-right: 10%;
 }
+body#index{
+    background-color:#4290d8;
+    color:#48ab94;
+}
 h1 {
     text-align: center;
     font-size:40px;
@@ -27,4 +31,16 @@ img {
 .img{
     text-align: center;
     
+}
+a {
+    text-decoration: none;
+    color: rgb(68, 108, 193);
+    font-size: 60px;
+}
+.main-title{
+    font-size: 90px;
+    
+}
+.link{
+    text-align: center;
 }
