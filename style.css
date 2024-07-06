@@ -5,10 +5,7 @@ body{
     margin-left: 10%;
     margin-right: 10%;
 }
-body#index{
-    background-color:#4290d8;
-    color:#48ab94;
-}
+
 h1 {
     text-align: center;
     font-size:40px;
